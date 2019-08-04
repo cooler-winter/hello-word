@@ -1,2 +1,4 @@
 # hello-word
-my first repository
+# my first repository
+Hi Humans!
+cooler-winter here 
